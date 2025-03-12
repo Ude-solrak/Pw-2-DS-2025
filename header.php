@@ -9,13 +9,13 @@
   <body>
   <ul class="nav justify-content-center">
   <li class="nav-item">
-    <a class="nav-link active" aria-current="page" href="#">Active</a>
+    <a class="nav-link active" aria-current="page" href="?aaa=home">home</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">Link</a>
+    <a class="nav-link" href="?aaa=contatos">contatos</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">Link</a>
+    <a class="nav-link" href="#">menu 3</a>
   </li>
 </ul>
     
